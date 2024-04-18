@@ -1,0 +1,11 @@
+C:\Users\miraz\OneDrive\Desktop\Split the bill\SplitClassLibrary\bin\Debug\net8.0\SplitClassLibrary.deps.json
+C:\Users\miraz\OneDrive\Desktop\Split the bill\SplitClassLibrary\bin\Debug\net8.0\SplitClassLibrary.dll
+C:\Users\miraz\OneDrive\Desktop\Split the bill\SplitClassLibrary\bin\Debug\net8.0\SplitClassLibrary.pdb
+C:\Users\miraz\OneDrive\Desktop\Split the bill\SplitClassLibrary\obj\Debug\net8.0\SplitClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miraz\OneDrive\Desktop\Split the bill\SplitClassLibrary\obj\Debug\net8.0\SplitClassLibrary.AssemblyInfoInputs.cache
+C:\Users\miraz\OneDrive\Desktop\Split the bill\SplitClassLibrary\obj\Debug\net8.0\SplitClassLibrary.AssemblyInfo.cs
+C:\Users\miraz\OneDrive\Desktop\Split the bill\SplitClassLibrary\obj\Debug\net8.0\SplitClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\miraz\OneDrive\Desktop\Split the bill\SplitClassLibrary\obj\Debug\net8.0\SplitClassLibrary.dll
+C:\Users\miraz\OneDrive\Desktop\Split the bill\SplitClassLibrary\obj\Debug\net8.0\refint\SplitClassLibrary.dll
+C:\Users\miraz\OneDrive\Desktop\Split the bill\SplitClassLibrary\obj\Debug\net8.0\SplitClassLibrary.pdb
+C:\Users\miraz\OneDrive\Desktop\Split the bill\SplitClassLibrary\obj\Debug\net8.0\ref\SplitClassLibrary.dll

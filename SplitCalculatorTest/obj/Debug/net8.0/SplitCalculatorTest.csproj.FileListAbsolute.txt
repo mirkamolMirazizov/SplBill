@@ -1,0 +1,6 @@
+C:\Users\miraz\OneDrive\Desktop\Split the bill\SplitCalculatorTest\bin\Debug\net8.0\CoverletSourceRootsMapping_SplitCalculatorTest
+C:\Users\miraz\OneDrive\Desktop\Split the bill\SplitCalculatorTest\obj\Debug\net8.0\SplitCalculatorTest.csproj.AssemblyReference.cache
+C:\Users\miraz\OneDrive\Desktop\Split the bill\SplitCalculatorTest\obj\Debug\net8.0\SplitCalculatorTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miraz\OneDrive\Desktop\Split the bill\SplitCalculatorTest\obj\Debug\net8.0\SplitCalculatorTest.AssemblyInfoInputs.cache
+C:\Users\miraz\OneDrive\Desktop\Split the bill\SplitCalculatorTest\obj\Debug\net8.0\SplitCalculatorTest.AssemblyInfo.cs
+C:\Users\miraz\OneDrive\Desktop\Split the bill\SplitCalculatorTest\obj\Debug\net8.0\SplitCalculatorTest.csproj.CoreCompileInputs.cache
